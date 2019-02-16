@@ -1,2 +1,2 @@
-# CSC413-SFSU
+# Software Development
 CSC 413: Software Development
