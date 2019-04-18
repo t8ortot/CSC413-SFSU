@@ -1,4 +1,6 @@
 # Tank Game
+Disclaimer: The original repo to this project was owned and deleted by the facilitating instructor, therefore there are not many commits to show in this repo.
+
 # Team 34
 James Clark & Zachary Martin
 
