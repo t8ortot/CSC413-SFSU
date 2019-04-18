@@ -1,4 +1,6 @@
 # RIDICULOUS RAINBOW REEF
+Disclaimer: The original repo to this project was owned and deleted by the facilitating instructor, therefore there are not many commits to show in this repo.
+
 James Clark & Zachary Martin
 
 Our project was completed using JDK 8 on NetBeans IDE 8.2.
@@ -8,15 +10,15 @@ Our project was completed using JDK 8 on NetBeans IDE 8.2.
 On Mac:
 
 1. Download this repository (keep track of where it has been downloaded to)
-2. Navigate to the downloaded .zip called "csc413-secondgame-Team34-master" and open it
+2. Navigate to the downloaded .zip called "Software-Development-master" and open it. Then open the "Brick-Breaker Game" folder.
 3. Double-click the "RRR.jar" file
 4. The game window should appear and you can start playing
 
 On Windows:
 
 1. Download this repository (keep track of where it has been downloaded to)
-2. Navigate to the downloaded .zip called "csc413-secondgame-Team34-master" un-zip the contents
-3. Open the folder that was unzipped in the command prompt
+2. Navigate to the downloaded .zip called "Software-Development-master" un-zip the contents
+3. Open the folder that was unzipped in the command prompt and navigate to the "Brick-Breaker Game" directory.
 4. List the items in the folder by using the command "dir", if you can see an item named "RRR.jar", continue. If not, you are in the wrong directory.
 5. Use the command "java -jar RRR.jar"
 6. The game window should appear, and you can start playing. 
@@ -31,11 +33,11 @@ On Windows:
 4. A pop-up will appear. On the left side, "Java" should be highlighted and on the right, select "Java Project with Existing Sources" and then hit "Next."
 5. Name the project and hit "Next"
 6. Next to the "Source Package Folders" box select "Add Folder..."
-7. Navigate to the un-zipped repository folder named "csc413-secondgame-Team34-master", open it, and then hit "Finish."
+7. Navigate to the un-zipped repository folder named "Software-Development-master/Brick-Breaker Game", open it, and then hit "Finish."
 8. At this point, the project should be open in the NetBeans IDE.
 9. In the menu bar, select File -> Project Properties (...)
 10. On the left pane, select "Run"
-11. To the right of the "Working Directory" box, select "Browse" and navigate to the same "csc413-secondgame-Team34-master" folder you downloaded and open it.
+11. To the right of the "Working Directory" box, select "Browse" and navigate to the same "Software-Development-master/Brick-Breaker Game" folder you downloaded and open it.
 12. Click "Ok"
 13. Then, in the menu bar, select Run -> Run Project (...)
 14. The game window should appear and you can start playing.
