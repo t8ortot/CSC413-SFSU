@@ -2,7 +2,7 @@
 
 This is my coursework from my Software Development course I took in Spring 2018 at San Francisco State University.
 
-Projects include:
+Projects include, in order:
 - Calculator + GUI
 - Lexer
 - Interpreter
